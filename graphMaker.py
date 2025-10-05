@@ -8,11 +8,11 @@ st.set_page_config(page_title="Graf Çizici", layout="centered")
 st.title("Graf Çizici")
 
 st.markdown("""
-Bu uygulama farklı dizilim seçenekleri ile graflar oluşturup png olarak indirme olanak sağlar.
+Bu uygulama farklı dizilim seçenekleri ile graflar oluşturup png olarak indirmeye olanak sağlar.
 """)
 
 st.markdown("---")  # yatay çizgi
-st.markdown("Coded by **Eren Özel** 212709067  @Student of **Selçuk Üniversitesi**")
+st.markdown("Coded by **Eren Özel**  @Student of **Selçuk Üniversitesi**")
 # ----------------------------
 # Kullanıcı girişleri
 # ----------------------------
